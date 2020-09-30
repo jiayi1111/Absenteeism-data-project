@@ -14,3 +14,6 @@
 - After you’ve done that, don’t forget to drop the ‘Reason for Absence’ column.
 - Extract the month value and the day of the week from the ‘Date’ column. Then, drop the ‘Date’ column as well.
 - Turn the data from the ‘Education’ column into binary data, by mapping the value of 0 to the values of 1, and the value of 1 to the rest of the values found in this column.
+
+## Task
+Predict absenteeism from work
